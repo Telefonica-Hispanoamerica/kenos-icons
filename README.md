@@ -1,5 +1,4 @@
-![Mistica Icons](.github/resources/mistica-icons-light.svg#gh-light-mode-only)
-![Mistica Icons](.github/resources/mistica-icons-dark.svg#gh-dark-mode-only)
+![UX Hispam Logo](.github/resources/logo-uxhispam.svg)
 
 ## What is this?  
 
