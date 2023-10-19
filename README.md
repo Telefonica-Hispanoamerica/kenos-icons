@@ -1,28 +1,27 @@
 ![UX Hispam Logo](.github/resources/logo-uxhispam.svg)
 
-## What is this?  
+## ¿Qué es esto?
 
-This is the repo that contains all icons that is working in [Mistica Design](https://github.com/Telefonica/mistica-design) now.  
+Este es el repositorio que contiene todos los íconos que están en uso en [Kénos Design](https://github.com/Telefonica-Hispanoamerica/kenos-design) en este momento.  
 
-Mistica support [Brand Factory icons](https://brandfactory.telefonica.com/document/1086#/nuestra-identidad/iconos). This set of icons are a big list of different icons and style that Brand Team worked to be used through Telefonica applications.
+Kénos es compatible con los iconos de [Brand Factory icons](https://brandfactory.telefonica.com/document/1086#/nuestra-identidad/iconos). Este conjunto de iconos es una extensa lista de diferentes iconos y estilos que el equipo de marcas ha trabajado para que sean utilizados en las aplicaciones de Telefónica.
+ 
 
-If you have any question, please you can ask directly in the app of Microsoft Teams, in [Mistica Team](https://teams.microsoft.com/l/team/19%3ad2e3607a32ec411b8bf492f43cd0fe0c%40thread.tacv2/conversations?groupId=e265fe99-929f-45d1-8154-699649674a40&tenantId=9744600e-3e04-492e-baa1-25ec245c6f10).  
+## Documentación
 
-## Documentation
+### Desarrollo
 
-### Develop
+#### React Native
 
-#### iOS and Android
+Puedes obtener los archivos .svg de este repositorio.
 
-You can get .pdf or .svg files from this repo.
+#### React
 
-#### Web
-
-Visit [Mistica Storybook](https://mistica-web.vercel.app/?path=/story/icons-catalog--catalog) to get all the detail about using Mistica Icons Library
+Visita [Kénos Storybook] para obtener la lista y todos los detalles sobre el uso de la biblioteca de iconos de Kénos.
 
 ### Design
 
-Use Mística icons library in Figma!
+¡Usa la biblioteca de iconos de Kénos en Figma!
 
 ## Icon equivalence status
 
@@ -33,15 +32,8 @@ Telefónica set
 ![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)    36% (428 / 1178) `local`  
 ![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)    71% (1178 / 1646) `global`  
 
-O₂ set  
-![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)    48% (426 / 885) `local`  
-![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)    53% (885 / 1646) `global`  
 
-Blau set  
-![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)    91% (55 / 60) `local`  
-![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)    3% (60 / 1646) `global`  
-
-## Icons
+## Lista de iconos
 
 | telefonica | blau | o2 | icon name |
 | :---: | :---: | :---: |:--- |
