@@ -1,9 +1,9 @@
 {
-  "name": "mistica-icons",
+  "name": "kenos-icons",
   "version": "1.0.0",
-  "description": "Icon repository for Mística Design System",
+  "description": "Repositorio de iconos para el sistema de diseño Kénos",
   "main": "index.js",
-  "repository": "https://github.com/Telefonica/mistica-icons.git",
+  "repository": "https://github.com/Telefonica-Hispanoamerica/kenos-icons.git",
   "author": "Yayo <yceballost@gmail.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

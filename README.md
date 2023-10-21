@@ -19,9 +19,6 @@ Puedes obtener los archivos .svg de este repositorio.
 
 Visita [Kénos Storybook] para obtener la lista y todos los detalles sobre el uso de la biblioteca de iconos de Kénos.
 
-### Diseño
-
-¡Usa la biblioteca de iconos de Kénos en Figma!
 
 ## Estado de equivalencia de iconos
 
