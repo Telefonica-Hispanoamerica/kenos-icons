@@ -19,24 +19,24 @@ Puedes obtener los archivos .svg de este repositorio.
 
 Visita [Kénos Storybook] para obtener la lista y todos los detalles sobre el uso de la biblioteca de iconos de Kénos.
 
-### Design
+### Diseño
 
 ¡Usa la biblioteca de iconos de Kénos en Figma!
 
-## Icon equivalence status
+## Estado de equivalencia de iconos
 
-**Local** = Icon equivalence in this set  
-**Global** = Icon set equivalence with total icons
+**Local** = Equivalencia de iconos en este conjunto  
+**Global** = Equivalencia del conjunto de iconos con el total de iconos
 
-Telefónica set  
+Telefónica  
 ![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_filled](.github/resources/filled.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)![bar_empty](.github/resources/empty.png)    36% (428 / 1178) `local`  
 ![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_filled](.github/resources/filled-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)![bar_empty](.github/resources/empty-s.png)    71% (1178 / 1646) `global`  
 
 
 ## Lista de iconos
 
-| telefonica | blau | o2 | icon name |
-| :---: | :---: | :---: |:--- |
+| Telefónica | Blau | O2 | Nombre de icono |
+| :---: |:--- | :--- | :--- |
 | |![2g-filled](icons/blau/filled/2g-filled.svg) | |`2g-filled`[![2g-filled](.github/resources/anchor.svg)](#2g-filled)|
 | |![2g-regular](icons/blau/regular/2g-regular.svg) | |`2g-regular`[![2g-regular](.github/resources/anchor.svg)](#2g-regular)|
 | | |![3d-view-filled](icons/o2/filled/3d-view-filled.svg) |`3d-view-filled`[![3d-view-filled](.github/resources/anchor.svg)](#3d-view-filled)|
